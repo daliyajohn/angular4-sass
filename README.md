@@ -12,9 +12,9 @@ CSS preprocessor is basically a scripting language that extends CSS and then com
 Sass (Syntactically Awesome StyleSheets)   is a CSS pre-processor, that  extends the CSS language by adding features like variables, mixins, functions, nested rules, selector inheritance.
 
 ## Sass has two syntaxes.
-Scss (Sassy ) –   with  brackets and semicolons. Extension is .scss .
+Scss (Sassy ) –   In scss we use brackets and semicolons and the extension is .scss .
 
-Sass -   follow the indentation of  lines. Extension is  .sass.
+Sass -   In sass we follow the indentation of lines and the extension is  .sass.
 
 ## Installation
 1.	npm install gulp-angular2-embed-sass --save-dev
