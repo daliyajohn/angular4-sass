@@ -1,6 +1,8 @@
 ## CSS preprocessor
-  A **preprocessor **  is a program that takes one type of data  and converts it to another type of data. 
-  **CSS preprocessor ** is basically a scripting language that extends CSS and then compiles it into regular CSS.
+  A ** preprocessor **  is a program that takes one type of data  and converts it to another type of data. 
+  
+  ** CSS preprocessor ** is basically a scripting language that extends CSS and then compiles it into regular CSS.
+  
 ## Mainly using CSS preprocessor 
 1.	Less
 2.	Sass
